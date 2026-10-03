@@ -43,6 +43,46 @@ Connected digital experiences where product, content, visibility and brand all r
 </tr>
 </table>
 
+
+<br/>
+
+## 🧩 WordPress Plugin Lab
+
+<div align="center">
+  <img src="./assets/wp-plugin-lab.svg" width="100%" alt="TZYRED AI WordPress Plugin Lab" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/wp-product-cleaner.svg" width="100%" alt="TZYRED Product Cleaner WordPress plugin" />
+</div>
+
+### Plugin #001 — TZYRED Product Cleaner
+
+**WooCommerce catalog cleanup without blind bulk actions.**  
+Version **2.0.0** adds exact product/image searching, visual previews, controlled batch cleanup, pause/resume, CSV export, saved searches and workspace branding.
+
+<table>
+<tr>
+<td width="25%" align="center"><strong>🔎 Exact Search</strong><br/><sub>Product name, product URL, image filename, image URL & missing-image checks.</sub></td>
+<td width="25%" align="center"><strong>🖼️ Visual Review</strong><br/><sub>Thumbnails, SKU, status, image IDs and exact match reasons before action.</sub></td>
+<td width="25%" align="center"><strong>🛡️ Safer Cleanup</strong><br/><sub>Trash-first workflow, re-checks before removal, pause/resume and guarded permanent delete.</sub></td>
+<td width="25%" align="center"><strong>⚙️ Reusable Tooling</strong><br/><sub>Saved presets, CSV export, branded workspace and no external API dependency.</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLUGIN-001-111111?style=for-the-badge" alt="Plugin 001" />
+  <img src="https://img.shields.io/badge/VERSION-2.0.0-111111?style=for-the-badge" alt="Version 2.0.0" />
+  <img src="https://img.shields.io/badge/WORDPRESS-6.2%2B-111111?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress 6.2+" />
+  <img src="https://img.shields.io/badge/PHP-7.4%2B-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP 7.4+" />
+  <img src="https://img.shields.io/badge/WOOCOMMERCE-READY-111111?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+</p>
+
+> **Lab rule:** every useful WordPress plugin we build gets a numbered spot here — with the problem it solves, current version, compatibility, release status and repository link once published.
+
+
 <div align="center">
 
 ### 🖤 TZYRED AI focus
