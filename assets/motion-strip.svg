@@ -1,0 +1,13 @@
+<svg width="1200" height="74" viewBox="0 0 1200 74" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="fade"><stop stop-color="#050505"/><stop offset=".08" stop-color="#050505" stop-opacity="0"/><stop offset=".92" stop-color="#050505" stop-opacity="0"/><stop offset="1" stop-color="#050505"/></linearGradient></defs>
+<rect width="1200" height="74" rx="18" fill="#080808"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" letter-spacing="3" fill="#fff" opacity=".84">
+  <g>
+    <text x="0" y="45">WEB APPS  ✦  SEO  ✦  DIGITAL MARKETING  ✦  CMS  ✦  SOFTWARE DEV  ✦  AUTOMATION  ✦  CLEAN SYSTEMS  ✦  DIGITAL GROWTH  ✦  WEB APPS  ✦  SEO  ✦  DIGITAL MARKETING  ✦  CMS  ✦  SOFTWARE DEV  ✦</text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1180 0" dur="18s" repeatCount="indefinite"/>
+  </g>
+</g>
+<rect width="1200" height="74" rx="18" fill="url(#fade)"/>
+<circle cx="23" cy="37" r="4" fill="#fff"><animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="1177" cy="37" r="4" fill="#fff"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+</svg>
